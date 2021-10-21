@@ -8,7 +8,7 @@
 
 При запуске приложения перед нами предстает Table View, который вмещает загруженные пользователем тексты. Рассказ A Scandal in Bohemia загружается в память автоматически для тестирования приложения. Импорт новых текстов возможен после нажатия кнопки 'Compose', которая находится в правом верхнем углу.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Начитка текстов
 <a><img src="https://user-images.githubusercontent.com/45755611/138249704-d46b5b92-2adf-4eb0-b4fb-932f16fdee00.png" align="right" height="844" width="390" ></a></h2>
@@ -19,7 +19,7 @@
 <br>С помощью кнопки со стрелкой пропускается следующее слово.
 Кнопка с динамиком произносится следующее непрочитанное (невыделенное) слово. Также можно выделить группу слов и произнести их целиком. Это реализуется с помощью класса AVSpeechSynthesizer. 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Загрузка пользовательских текстов
 <a><img src="https://user-images.githubusercontent.com/45755611/138244171-348a8ec3-b83b-4831-b5a5-4e20e9c581d4.png" align="right" height="844" width="390" ></a></h2>
