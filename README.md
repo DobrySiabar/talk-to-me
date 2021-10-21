@@ -8,7 +8,7 @@
 
 При запуске приложения перед нами предстает Table View, который вмещает загруженные пользователем тексты. Рассказ A Scandal in Bohemia загружается в память автоматически для тестирования приложения. Импорт новых текстов возможен после нажатия кнопки 'Compose', которая находится в правом верхнем углу.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <h2>Начитка текстов
 <a><img src="https://user-images.githubusercontent.com/45755611/138249704-d46b5b92-2adf-4eb0-b4fb-932f16fdee00.png" align="right" height="844" width="390" ></a></h2>
